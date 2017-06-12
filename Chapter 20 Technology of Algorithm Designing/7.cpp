@@ -9,7 +9,7 @@ int Partition(int a[], int i, int j)
 	{
 		while (i < j&&temp < a[j])
 			j--;
-		a[i] = a[i];
+		a[i] = a[j];
 		
 		while (i < j&&temp >= a[i])
 			i++;
