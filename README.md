@@ -2,7 +2,7 @@
 # ProgrammingPearlsPractices
 
 ## Index
--------------------------------
+
 [CSDN编程珠玑专栏](http://blog.csdn.net/column/details/pearls.html)
 
 [把编程珠玑读薄](http://www.hawstein.com/posts/make-thiner-programming-pearls.html)
